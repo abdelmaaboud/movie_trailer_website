@@ -18,7 +18,8 @@ django= Movie("Django Unchained",
               "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
               "https://www.youtube.com/watch?v=eUdM9vrCbow")
 
-revenant= Movie("the revenant"," A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team. ",
+revenant= Movie("the revenant",
+                " A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team. ",
                 "https://images-na.ssl-images-amazon.com/images/M/MV5BY2FmODc2N2QtYmY3MS00YTMwLWI2NGYtZWRmYWVkNjFjZmI0XkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_.jpg",
                 "https://www.youtube.com/watch?v=LoebZZ8K5N0")
 
